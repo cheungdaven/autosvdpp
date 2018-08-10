@@ -2,8 +2,7 @@
 
 Please cite the following paper if you use this code. Thank you 
 
-
-'''
+```
 @inproceedings{zhang2017autosvd++,
   title={Autosvd++: An efficient hybrid collaborative filtering model via contractive auto-encoders},
   author={Zhang, Shuai and Yao, Lina and Xu, Xiwei},
@@ -12,4 +11,4 @@ Please cite the following paper if you use this code. Thank you
   year={2017},
   organization={ACM}
 }
-'''
+```
